@@ -1,4 +1,4 @@
-# ruby intermediaire - Ruby-Tic-Tac-Toe-game(jeu-du-Morpion-en-Ruby)
+# ruby-exercice-day-14-55
 
-Exerce de programmatiob ruby dans le cadre de la formation The Hacking Project
+Exercice de programmation ruby dans le cadre de la formation The Hacking Project
 # ruby-exercice-day-14-55
